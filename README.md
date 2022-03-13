@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/version-1.0.0-orange)
 ![](https://img.shields.io/badge/appcompat-1.2.0-green)
 ![](https://img.shields.io/badge/constraintlayout-1.1.3-purple)
-![](https://img.shields.io/badge/MathParser.org-mXparser-4.4.2-red)
+![](https://img.shields.io/badge/MathParser.org_mXparser-4.4.2-red)
 
 
 ## Prerequisites
