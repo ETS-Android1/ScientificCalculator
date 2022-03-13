@@ -18,6 +18,18 @@
 | :---: | :---: |
 | ![](screenshots/1.png) | ![](screenshots/2.png) |
 
+| Please enter an expression | An expression example |
+| :---: | :---: |
+| ![](screenshots/3.png) | ![](screenshots/4.png) |
+
+| Evaluation of previous expression | Division by 0 |
+| :---: | :---: |
+| ![](screenshots/5.png) | ![](screenshots/6.png) |
+
+| The division by 0 is impossible | Expression with syntax error | Syntax error|
+| :---: | :---: |
+| ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
+
 
 ## Contributing
 
