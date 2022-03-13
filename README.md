@@ -27,7 +27,7 @@
 | ![](screenshots/5.png) | ![](screenshots/6.png) |
 
 | The division by 0 is impossible | Expression with syntax error | Syntax error|
-| :---: | :---: |
+| :---: | :---: | :---: |
 | ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
 
 
